@@ -1,0 +1,8 @@
+# Local generated artifacts
+outputs/
+work/
+__pycache__/
+*.pyc
+
+# Microsoft Office temporary files
+~$*.docx
